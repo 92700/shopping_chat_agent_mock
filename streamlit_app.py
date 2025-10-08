@@ -19,35 +19,50 @@ try:
 except Exception:
     phones = []
 
-# Mock LLM function
+# ---------------- Mock Recommendation Function ----------------
 def get_mock_answer(query, phones_data):
-    # Extract budget from query
+    query_lower = query.lower()
+    
+    # Comparison query
+    if 'compare' in query_lower:
+        names = re.findall(r'\b[a-zA-Z0-9 ]+\b', query)
+        selected = [p for p in phones_data if any(n.lower() in p['model'].lower() for n in names)]
+        if not selected:
+            return {'answer': "No matching phones found for comparison.", 'products': [], 'reasons': {}}
+        answer = "Comparing phones: " + ", ".join([p['model'] for p in selected])
+        reasons = {}
+        for p in selected:
+            r = []
+            cam = p.get('camera', {}).get('main_mp', 0)
+            if cam >= 48: r.append(f"Good camera ({cam}MP)")
+            bat = p.get('battery_mah',0)
+            if bat >= 4000: r.append(f"Decent battery ({bat} mAh)")
+            if p.get('one_hand_score',6) >=7: r.append("Good one-hand usability")
+            reasons[p['id']] = r
+        return {'answer': answer, 'products': selected, 'reasons': reasons}
+    
+    # Budget query
     budget = 30000
     m = re.search(r'under ₹?(\d+)', query.replace(',', ''))
     if m:
         budget = int(m.group(1))
-
-    # Filter top 3 phones under budget
+    
     candidates = [p for p in phones_data if p['price_inr'] <= budget][:3]
-
-    # Generate simple reasons
+    
     reasons = {}
     for p in candidates:
         r = []
         cam = p.get('camera', {}).get('main_mp', 0)
-        if cam >= 48:
-            r.append(f"Good camera ({cam}MP)")
+        if cam >= 48: r.append(f"Good camera ({cam}MP)")
         bat = p.get('battery_mah', 0)
-        if bat >= 4000:
-            r.append(f"Decent battery ({bat} mAh)")
-        if p.get('one_hand_score', 6) >= 7:
-            r.append("Good one-hand usability")
+        if bat >= 4000: r.append(f"Decent battery ({bat} mAh)")
+        if p.get('one_hand_score', 6) >= 7: r.append("Good one-hand usability")
         reasons[p['id']] = r
-
+    
     answer = "Recommended phones: " + ", ".join([p['model'] for p in candidates])
     return {'answer': answer, 'products': candidates, 'reasons': reasons}
 
-# User input form
+# ---------------- User Input Form ----------------
 with st.form('query_form', clear_on_submit=True):
     q = st.text_input('Ask about phones (e.g. Best camera phone under ₹30k)')
     submitted = st.form_submit_button('Ask')
@@ -78,10 +93,8 @@ if submitted and q:
             if st.button('Why this?', key=f"why_{p['id']}"):
                 st.write('\n'.join(reasons.get(p['id'], ['No reasons available'])))
 
-# Separator
+# ---------------- Compare Section ----------------
 st.markdown('---')
-
-# Compare section
 if st.session_state.compare_set:
     ids = list(st.session_state.compare_set)
     st.subheader('Compare selected phones')
@@ -98,11 +111,12 @@ if st.session_state.compare_set:
                 st.markdown(f"Battery: {p.get('battery_mah','N/A')} mAh | Charging: {p.get('charging_w','N/A')}W")
                 st.markdown('---')
 
-# Display chat history
+# ---------------- Chat History ----------------
 for m in st.session_state.history[::-1]:
     if m['role'] == 'assistant':
         st.markdown(f"**Agent:** {m['text']}")
     else:
         st.markdown(f"**You:** {m['text']}")
+
 
     
