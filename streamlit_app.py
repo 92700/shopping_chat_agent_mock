@@ -1,4 +1,3 @@
-# frontend/streamlit_app.py
 import streamlit as st
 import json
 import re
@@ -23,37 +22,34 @@ except Exception:
 def get_mock_answer(query, phones_data):
     query_lower = query.lower()
 
-    # 1️⃣ Check for comparison query
+    # Comparison query: match any model in query
     selected = [p for p in phones_data if p['model'].lower() in query_lower]
     if selected:
         answer = "Comparing phones: " + ", ".join([p['model'] for p in selected])
         reasons = {}
         for p in selected:
             r = []
-            cam = p.get('camera', {}).get('main_mp', 0)
+            cam = p['camera']['main_mp']
             if cam >= 48: r.append(f"Good camera ({cam}MP)")
-            bat = p.get('battery_mah',0)
-            if bat >= 4000: r.append(f"Decent battery ({bat} mAh)")
-            if p.get('one_hand_score',6) >=7: r.append("Good one-hand usability")
+            if p['battery_mah'] >= 4000: r.append(f"Decent battery ({p['battery_mah']} mAh)")
+            if p['one_hand_score'] >= 7: r.append("Good one-hand usability")
             reasons[p['id']] = r
         return {'answer': answer, 'products': selected, 'reasons': reasons}
 
-    # 2️⃣ Handle budget queries
+    # Budget query: show phones under budget
     budget = 30000
     m = re.search(r'under ₹?(\d+)', query.replace(',', ''))
     if m:
         budget = int(m.group(1))
-
     candidates = [p for p in phones_data if p['price_inr'] <= budget][:3]
 
     reasons = {}
     for p in candidates:
         r = []
-        cam = p.get('camera', {}).get('main_mp', 0)
+        cam = p['camera']['main_mp']
         if cam >= 48: r.append(f"Good camera ({cam}MP)")
-        bat = p.get('battery_mah', 0)
-        if bat >= 4000: r.append(f"Decent battery ({bat} mAh)")
-        if p.get('one_hand_score', 6) >= 7: r.append("Good one-hand usability")
+        if p['battery_mah'] >= 4000: r.append(f"Decent battery ({p['battery_mah']} mAh)")
+        if p['one_hand_score'] >= 7: r.append("Good one-hand usability")
         reasons[p['id']] = r
 
     answer = "Recommended phones: " + ", ".join([p['model'] for p in candidates])
@@ -61,7 +57,7 @@ def get_mock_answer(query, phones_data):
 
 # ---------------- User Input ----------------
 with st.form('query_form', clear_on_submit=True):
-    user_query = st.text_input("Ask about phones (e.g. Best camera phone under ₹30k or Compare Pixel 8a vs OnePlus 12R)")
+    user_query = st.text_input("Ask about phones (e.g. Best camera phone under ₹30k or Compare Pixel 11 Neo vs Moto 11 Lite)")
     submitted = st.form_submit_button('Ask')
 
 if submitted and user_query:
@@ -77,7 +73,7 @@ if submitted and user_query:
     cols = st.columns(3)
     for i, p in enumerate(products):
         with cols[i % 3]:
-            st.image(p.get('image', 'https://via.placeholder.com/300x200.png?text=Phone+Image'))
+            st.image(p.get('image'))
             st.markdown(f"**{p['brand']} {p['model']}**")
             st.markdown(f"Price: ₹{p['price_inr']}")
             cam = p.get('camera', {})
