@@ -53,5 +53,27 @@
     "charging_w": 33,
     "one_hand_score": 6,
     "image": "https://dummyimage.com/300x200/000/fff&text=Poco+X3+Pro"
+  },
+  {
+    "id": "6",
+    "brand": "Google",
+    "model": "Pixel 8a",
+    "price_inr": 28999,
+    "camera": {"main_mp": 50, "features": ["OIS", "EIS", "IP68"]},
+    "battery_mah": 4500,
+    "charging_w": 30,
+    "one_hand_score": 7,
+    "image": "https://dummyimage.com/300x200/000/fff&text=Pixel+8a"
+  },
+  {
+    "id": "7",
+    "brand": "OnePlus",
+    "model": "OnePlus 12R",
+    "price_inr": 29999,
+    "camera": {"main_mp": 48, "features": ["OIS", "EIS", "120Hz"]},
+    "battery_mah": 5000,
+    "charging_w": 65,
+    "one_hand_score": 7,
+    "image": "https://dummyimage.com/300x200/000/fff&text=OnePlus+12R"
   }
 ]
