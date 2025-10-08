@@ -2,7 +2,7 @@ import streamlit as st
 import json
 import re
 
-st.set_page_config(page_title='Mobile Shopping Agent', layout='wide')
+st.set_page_config(page_title='Mobile Shopping Assistant', layout='wide')
 st.title("📱 Mobile Shopping Assistant")
 
 # ---------------- Session State ----------------
@@ -22,7 +22,23 @@ except Exception:
 def get_mock_answer(query, phones_data):
     query_lower = query.lower()
 
-    # Comparison query: match any model in query
+    # Specific query for best camera under 30k
+    if "best camera phone under" in query_lower:
+        budget_match = re.search(r'under ₹?(\d+)', query.replace(',', ''))
+        budget = int(budget_match.group(1)) if budget_match else 30000
+        selected = [p for p in phones_data if p['price_inr'] <= budget]
+        answer = "Recommended camera phones under ₹{:,}:".format(budget)
+        reasons = {}
+        for p in selected:
+            r = []
+            cam = p['camera']['main_mp']
+            if cam >= 48: r.append(f"Good camera ({cam}MP)")
+            if p['battery_mah'] >= 4000: r.append(f"Decent battery ({p['battery_mah']} mAh)")
+            if p['one_hand_score'] >= 7: r.append("Good one-hand usability")
+            reasons[p['id']] = r
+        return {'answer': answer, 'products': selected, 'reasons': reasons}
+
+    # Comparison query
     selected = [p for p in phones_data if p['model'].lower() in query_lower]
     if selected:
         answer = "Comparing phones: " + ", ".join([p['model'] for p in selected])
@@ -36,7 +52,7 @@ def get_mock_answer(query, phones_data):
             reasons[p['id']] = r
         return {'answer': answer, 'products': selected, 'reasons': reasons}
 
-    # Budget query: show phones under budget
+    # Default budget-based selection
     budget = 30000
     m = re.search(r'under ₹?(\d+)', query.replace(',', ''))
     if m:
@@ -57,7 +73,7 @@ def get_mock_answer(query, phones_data):
 
 # ---------------- User Input ----------------
 with st.form('query_form', clear_on_submit=True):
-    user_query = st.text_input("Ask about phones (e.g. Best camera phone under ₹30k or Compare Pixel 11 Neo vs Moto 11 Lite)")
+    user_query = st.text_input("Ask about phones (e.g., Best camera phone under ₹30k or Compare Pixel 11 Neo vs Moto 11 Lite)")
     submitted = st.form_submit_button('Ask')
 
 if submitted and user_query:
