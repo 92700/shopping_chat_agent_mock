@@ -1,0 +1,5340 @@
+[
+  {
+    "id": "phone_1",
+    "brand": "Google",
+    "model": "Pixel 11 Neo",
+    "price_inr": 10145,
+    "display": "5.8 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 8,
+      "features": [
+        "120Hz",
+        "IP68",
+        "Wireless charging",
+        "OIS",
+        "WiFi 6E",
+        "EIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 5500,
+    "charging_w": 45,
+    "os": "Android (Stock)",
+    "processor": "Dimensity 9200",
+    "weight_g": 212,
+    "dimensions_mm": "140 x 71 x 9.2",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-09-04",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "120Hz",
+      "IP68",
+      "Wireless charging",
+      "OIS",
+      "WiFi 6E",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_2",
+    "brand": "Xiaomi",
+    "model": "Redmi 28 Lite",
+    "price_inr": 45347,
+    "display": "6.78 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 12,
+      "features": [
+        "EIS",
+        "5G",
+        "OIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 4000,
+    "charging_w": 33,
+    "os": "iOS",
+    "processor": "Dimensity 7020",
+    "weight_g": 169,
+    "dimensions_mm": "143 x 68 x 7.2",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-02-06",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_3",
+    "brand": "Realme",
+    "model": "Realme 6",
+    "price_inr": 16754,
+    "display": "6.7 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": null,
+      "features": [
+        "EIS",
+        "IP68",
+        "90Hz",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 6000,
+    "charging_w": 33,
+    "os": "Android (OxygenOS)",
+    "processor": "Snapdragon 778G",
+    "weight_g": 203,
+    "dimensions_mm": "168 x 72 x 6.7",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-01-20",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "IP68",
+      "90Hz",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_4",
+    "brand": "Xiaomi",
+    "model": "Redmi 10",
+    "price_inr": 47426,
+    "display": "6.6 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 12,
+      "features": [
+        "OIS",
+        "120Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 4500,
+    "charging_w": 33,
+    "os": "Android",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 209,
+    "dimensions_mm": "168 x 65 x 9.4",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-02-15",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "120Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_5",
+    "brand": "Motorola",
+    "model": "Moto 11 Lite",
+    "price_inr": 15207,
+    "display": "6.5 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 12,
+      "features": [
+        "Wireless charging",
+        "EIS",
+        "IP68",
+        "OIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 4000,
+    "charging_w": 18,
+    "os": "Android (OxygenOS)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 179,
+    "dimensions_mm": "140 x 67 x 8.7",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-06-21",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "EIS",
+      "IP68",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_6",
+    "brand": "Google",
+    "model": "Pixel 5",
+    "price_inr": 64606,
+    "display": "6.7 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "EIS",
+        "5G",
+        "120Hz",
+        "OIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 3000,
+    "charging_w": 30,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 778G",
+    "weight_g": 146,
+    "dimensions_mm": "147 x 72 x 8.9",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-06-28",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "EIS",
+      "5G",
+      "120Hz",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_7",
+    "brand": "iQOO",
+    "model": "iQOO 18 Neo",
+    "price_inr": 46284,
+    "display": "6.4 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "OIS",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 5500,
+    "charging_w": 45,
+    "os": "Android (OxygenOS)",
+    "processor": "Tensor G3",
+    "weight_g": 181,
+    "dimensions_mm": "157 x 76 x 9.0",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-04-17",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "OIS",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_8",
+    "brand": "Oppo",
+    "model": "Oppo 12 Pro",
+    "price_inr": 58133,
+    "display": "6.78 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": null,
+      "features": [
+        "WiFi 6E",
+        "EIS",
+        "IP68"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 4500,
+    "charging_w": 30,
+    "os": "Android (OxygenOS)",
+    "processor": "Snapdragon 6 Gen 1",
+    "weight_g": 169,
+    "dimensions_mm": "169 x 68 x 6.8",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-06-15",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "WiFi 6E",
+      "EIS",
+      "IP68"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_9",
+    "brand": "Google",
+    "model": "Pixel 12 Pro",
+    "price_inr": 36463,
+    "display": "6.6 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 16,
+      "features": [
+        "EIS",
+        "5G",
+        "IP68",
+        "Wireless charging",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 3500,
+    "charging_w": 80,
+    "os": "Android (OxygenOS)",
+    "processor": "Apple A15",
+    "weight_g": 149,
+    "dimensions_mm": "159 x 79 x 8.6",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-10-28",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "IP68",
+      "Wireless charging",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_10",
+    "brand": "Samsung",
+    "model": "Galaxy 22 Pro",
+    "price_inr": 10689,
+    "display": "5.8 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": null,
+      "features": [
+        "Night mode",
+        "IP68",
+        "Wireless charging",
+        "OIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 5500,
+    "charging_w": 33,
+    "os": "iOS",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 186,
+    "dimensions_mm": "152 x 66 x 7.6",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-10-10",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "IP68",
+      "Wireless charging",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_11",
+    "brand": "Realme",
+    "model": "Realme 13 Neo",
+    "price_inr": 58837,
+    "display": "6.7 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 16,
+      "features": [
+        "OIS",
+        "WiFi 6E",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 5500,
+    "charging_w": 18,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 6 Gen 1",
+    "weight_g": 208,
+    "dimensions_mm": "147 x 69 x 8.7",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-03-14",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "WiFi 6E",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_12",
+    "brand": "iQOO",
+    "model": "iQOO 22 Pro",
+    "price_inr": 46381,
+    "display": "6.1 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": null,
+      "features": [
+        "90Hz",
+        "Wireless charging",
+        "EIS",
+        "IP68"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 6000,
+    "charging_w": 120,
+    "os": "Android",
+    "processor": "Dimensity 7020",
+    "weight_g": 218,
+    "dimensions_mm": "143 x 70 x 8.8",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-11-01",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "90Hz",
+      "Wireless charging",
+      "EIS",
+      "IP68"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_13",
+    "brand": "Realme",
+    "model": "Realme 12",
+    "price_inr": 59185,
+    "display": "6.0 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 12,
+      "features": [
+        "EIS",
+        "90Hz",
+        "Wireless charging",
+        "OIS",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 4000,
+    "charging_w": 30,
+    "os": "Android (OxygenOS)",
+    "processor": "Snapdragon 6 Gen 1",
+    "weight_g": 141,
+    "dimensions_mm": "160 x 80 x 9.0",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-05-02",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "90Hz",
+      "Wireless charging",
+      "OIS",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_14",
+    "brand": "iQOO",
+    "model": "iQOO 16",
+    "price_inr": 58180,
+    "display": "6.1 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 12,
+      "features": [
+        "120Hz",
+        "IP68",
+        "Wireless charging",
+        "Night mode",
+        "WiFi 6E",
+        "OIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 3000,
+    "charging_w": 120,
+    "os": "Android (OxygenOS)",
+    "processor": "Dimensity 9200",
+    "weight_g": 230,
+    "dimensions_mm": "161 x 79 x 8.4",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-10-19",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "120Hz",
+      "IP68",
+      "Wireless charging",
+      "Night mode",
+      "WiFi 6E",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_15",
+    "brand": "iQOO",
+    "model": "iQOO 14 Lite",
+    "price_inr": 12592,
+    "display": "6.4 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 16,
+      "features": [
+        "EIS",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 4000,
+    "charging_w": 80,
+    "os": "iOS",
+    "processor": "Snapdragon 8+",
+    "weight_g": 181,
+    "dimensions_mm": "144 x 71 x 8.1",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-09-05",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_16",
+    "brand": "iQOO",
+    "model": "iQOO 13",
+    "price_inr": 26630,
+    "display": "6.7 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 12,
+      "features": [
+        "Night mode",
+        "90Hz",
+        "OIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 4000,
+    "charging_w": 120,
+    "os": "Android",
+    "processor": "Dimensity 7020",
+    "weight_g": 179,
+    "dimensions_mm": "142 x 72 x 7.6",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-12-03",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "90Hz",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_17",
+    "brand": "Realme",
+    "model": "Realme 8 Pro",
+    "price_inr": 45185,
+    "display": "6.1 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": null,
+      "features": [
+        "Wireless charging",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 4000,
+    "charging_w": 120,
+    "os": "Android (OxygenOS)",
+    "processor": "Dimensity 7020",
+    "weight_g": 175,
+    "dimensions_mm": "158 x 66 x 8.4",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-02-17",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_18",
+    "brand": "Google",
+    "model": "Pixel 11 Pro",
+    "price_inr": 23016,
+    "display": "6.0 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 12,
+      "features": [
+        "IP68",
+        "Wireless charging",
+        "Night mode",
+        "OIS",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 3500,
+    "charging_w": 18,
+    "os": "Android (OxygenOS)",
+    "processor": "Snapdragon 6 Gen 1",
+    "weight_g": 208,
+    "dimensions_mm": "164 x 65 x 9.3",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-01-28",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "IP68",
+      "Wireless charging",
+      "Night mode",
+      "OIS",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_19",
+    "brand": "Poco",
+    "model": "Poco 16",
+    "price_inr": 61409,
+    "display": "6.6 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": 8,
+      "features": [
+        "EIS",
+        "120Hz",
+        "IP68",
+        "Night mode",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 3000,
+    "charging_w": 120,
+    "os": "Android (Stock)",
+    "processor": "Tensor G3",
+    "weight_g": 216,
+    "dimensions_mm": "168 x 77 x 7.5",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-11-24",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "120Hz",
+      "IP68",
+      "Night mode",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_20",
+    "brand": "Poco",
+    "model": "Poco 3 Lite",
+    "price_inr": 21839,
+    "display": "5.8 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 8,
+      "features": [
+        "5G",
+        "90Hz",
+        "IP68",
+        "Night mode",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 6000,
+    "charging_w": 120,
+    "os": "Android",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 194,
+    "dimensions_mm": "169 x 68 x 6.7",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-06-10",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "90Hz",
+      "IP68",
+      "Night mode",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_21",
+    "brand": "Samsung",
+    "model": "Galaxy 30 Lite",
+    "price_inr": 14623,
+    "display": "5.8 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 12,
+      "features": [
+        "Wireless charging",
+        "Night mode",
+        "EIS",
+        "IP68"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 5000,
+    "charging_w": 18,
+    "os": "iOS",
+    "processor": "Tensor G3",
+    "weight_g": 174,
+    "dimensions_mm": "155 x 71 x 7.8",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-11-17",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "Night mode",
+      "EIS",
+      "IP68"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_22",
+    "brand": "Vivo",
+    "model": "Vivo 3 Neo",
+    "price_inr": 13558,
+    "display": "6.5 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 12,
+      "features": [
+        "OIS",
+        "WiFi 6E",
+        "EIS",
+        "5G"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 3000,
+    "charging_w": 80,
+    "os": "Android",
+    "processor": "Snapdragon 778G",
+    "weight_g": 150,
+    "dimensions_mm": "147 x 79 x 9.2",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-01-23",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "WiFi 6E",
+      "EIS",
+      "5G"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_23",
+    "brand": "Google",
+    "model": "Pixel 6 Neo",
+    "price_inr": 12366,
+    "display": "6.78 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 16,
+      "features": [
+        "EIS",
+        "90Hz",
+        "120Hz",
+        "Night mode",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 3500,
+    "charging_w": 65,
+    "os": "iOS",
+    "processor": "Dimensity 7020",
+    "weight_g": 216,
+    "dimensions_mm": "150 x 77 x 6.8",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-03-26",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "90Hz",
+      "120Hz",
+      "Night mode",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_24",
+    "brand": "Oppo",
+    "model": "Oppo 13 Pro",
+    "price_inr": 8321,
+    "display": "6.6 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": null,
+      "features": [
+        "EIS",
+        "90Hz",
+        "120Hz",
+        "IP68",
+        "OIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 4000,
+    "charging_w": 65,
+    "os": "Android (OxygenOS)",
+    "processor": "Dimensity 7020",
+    "weight_g": 151,
+    "dimensions_mm": "141 x 70 x 7.1",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-04-03",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "90Hz",
+      "120Hz",
+      "IP68",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_25",
+    "brand": "Samsung",
+    "model": "Galaxy 16 Lite",
+    "price_inr": 6999,
+    "display": "6.7 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 16,
+      "features": [
+        "EIS",
+        "IP68",
+        "90Hz",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 3000,
+    "charging_w": 30,
+    "os": "iOS",
+    "processor": "Snapdragon 8+",
+    "weight_g": 227,
+    "dimensions_mm": "165 x 72 x 9.0",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-03-20",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "IP68",
+      "90Hz",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_26",
+    "brand": "iQOO",
+    "model": "iQOO 30 Pro",
+    "price_inr": 32169,
+    "display": "6.0 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": 8,
+      "features": [
+        "120Hz",
+        "Night mode",
+        "WiFi 6E",
+        "5G",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 5500,
+    "charging_w": 30,
+    "os": "iOS",
+    "processor": "Snapdragon 6 Gen 1",
+    "weight_g": 180,
+    "dimensions_mm": "163 x 66 x 9.2",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-03-18",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "120Hz",
+      "Night mode",
+      "WiFi 6E",
+      "5G",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_27",
+    "brand": "Google",
+    "model": "Pixel 26 Lite",
+    "price_inr": 36343,
+    "display": "6.1 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 8,
+      "features": [
+        "OIS",
+        "90Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 3500,
+    "charging_w": 30,
+    "os": "iOS",
+    "processor": "Dimensity 7020",
+    "weight_g": 178,
+    "dimensions_mm": "143 x 77 x 8.6",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-02-16",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "90Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_28",
+    "brand": "Xiaomi",
+    "model": "Redmi 20 Lite",
+    "price_inr": 16985,
+    "display": "6.4 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 16,
+      "features": [
+        "Night mode",
+        "EIS",
+        "WiFi 6E",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 5000,
+    "charging_w": 80,
+    "os": "Android (OxygenOS)",
+    "processor": "Dimensity 9200",
+    "weight_g": 161,
+    "dimensions_mm": "170 x 68 x 9.0",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-06-17",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "EIS",
+      "WiFi 6E",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_29",
+    "brand": "Realme",
+    "model": "Realme 16 Neo",
+    "price_inr": 25549,
+    "display": "6.1 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 12,
+      "features": [
+        "Night mode",
+        "WiFi 6E",
+        "IP68",
+        "Wireless charging",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 3500,
+    "charging_w": 18,
+    "os": "Android (OxygenOS)",
+    "processor": "Dimensity 9200",
+    "weight_g": 195,
+    "dimensions_mm": "170 x 77 x 8.6",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-07-25",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "WiFi 6E",
+      "IP68",
+      "Wireless charging",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_30",
+    "brand": "Poco",
+    "model": "Poco 28 Lite",
+    "price_inr": 16588,
+    "display": "6.5 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 8,
+      "features": [
+        "OIS",
+        "IP68",
+        "90Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 5500,
+    "charging_w": 18,
+    "os": "Android (Stock)",
+    "processor": "Tensor G3",
+    "weight_g": 178,
+    "dimensions_mm": "145 x 68 x 7.5",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-11-07",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "IP68",
+      "90Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_31",
+    "brand": "Xiaomi",
+    "model": "Redmi 6 Pro",
+    "price_inr": 63622,
+    "display": "6.1 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 16,
+      "features": [
+        "EIS",
+        "5G",
+        "90Hz",
+        "Wireless charging",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 4500,
+    "charging_w": 30,
+    "os": "Android (Stock)",
+    "processor": "Dimensity 7020",
+    "weight_g": 155,
+    "dimensions_mm": "163 x 70 x 8.2",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-06-01",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "90Hz",
+      "Wireless charging",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_32",
+    "brand": "Samsung",
+    "model": "Galaxy 3",
+    "price_inr": 20427,
+    "display": "6.7 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 16,
+      "features": [
+        "5G",
+        "90Hz",
+        "120Hz",
+        "Wireless charging",
+        "WiFi 6E",
+        "OIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 5000,
+    "charging_w": 18,
+    "os": "Android (Stock)",
+    "processor": "Dimensity 7020",
+    "weight_g": 154,
+    "dimensions_mm": "167 x 66 x 8.4",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-04-05",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "90Hz",
+      "120Hz",
+      "Wireless charging",
+      "WiFi 6E",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_33",
+    "brand": "Google",
+    "model": "Pixel 18 Neo",
+    "price_inr": 20362,
+    "display": "6.5 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": null,
+      "features": [
+        "Wireless charging",
+        "120Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 3000,
+    "charging_w": 120,
+    "os": "Android (Stock)",
+    "processor": "Dimensity 7020",
+    "weight_g": 140,
+    "dimensions_mm": "141 x 79 x 7.7",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-02-16",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "120Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_34",
+    "brand": "OnePlus",
+    "model": "OnePlus 4",
+    "price_inr": 63428,
+    "display": "6.78 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 12,
+      "features": [
+        "90Hz",
+        "120Hz",
+        "Wireless charging",
+        "Night mode",
+        "OIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 3500,
+    "charging_w": 45,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 8+",
+    "weight_g": 144,
+    "dimensions_mm": "162 x 78 x 9.0",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-10-20",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "90Hz",
+      "120Hz",
+      "Wireless charging",
+      "Night mode",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_35",
+    "brand": "Google",
+    "model": "Pixel 3 Neo",
+    "price_inr": 19432,
+    "display": "6.78 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": null,
+      "features": [
+        "Wireless charging",
+        "OIS",
+        "EIS",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 5000,
+    "charging_w": 80,
+    "os": "Android",
+    "processor": "Snapdragon 778G",
+    "weight_g": 170,
+    "dimensions_mm": "144 x 79 x 9.1",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-04-13",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "OIS",
+      "EIS",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_36",
+    "brand": "OnePlus",
+    "model": "OnePlus 6 Pro",
+    "price_inr": 29904,
+    "display": "6.4 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 8,
+      "features": [
+        "Night mode",
+        "OIS",
+        "90Hz",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 5000,
+    "charging_w": 65,
+    "os": "iOS",
+    "processor": "Apple A15",
+    "weight_g": 198,
+    "dimensions_mm": "154 x 68 x 8.5",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-05-07",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "OIS",
+      "90Hz",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_37",
+    "brand": "Google",
+    "model": "Pixel 6 Neo",
+    "price_inr": 62551,
+    "display": "5.8 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 8,
+      "features": [
+        "5G",
+        "120Hz",
+        "IP68",
+        "Night mode",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 4000,
+    "charging_w": 120,
+    "os": "Android",
+    "processor": "Apple A15",
+    "weight_g": 227,
+    "dimensions_mm": "151 x 69 x 8.4",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-12-27",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "120Hz",
+      "IP68",
+      "Night mode",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_38",
+    "brand": "OnePlus",
+    "model": "OnePlus 3 Lite",
+    "price_inr": 49733,
+    "display": "6.78 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 16,
+      "features": [
+        "Night mode",
+        "EIS",
+        "90Hz",
+        "5G"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 3500,
+    "charging_w": 120,
+    "os": "Android (OxygenOS)",
+    "processor": "Snapdragon 778G",
+    "weight_g": 218,
+    "dimensions_mm": "156 x 68 x 8.4",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-11-09",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "EIS",
+      "90Hz",
+      "5G"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_39",
+    "brand": "OnePlus",
+    "model": "OnePlus 4 Pro",
+    "price_inr": 24597,
+    "display": "6.0 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 16,
+      "features": [
+        "EIS",
+        "5G",
+        "OIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 4000,
+    "charging_w": 65,
+    "os": "Android",
+    "processor": "Apple A15",
+    "weight_g": 146,
+    "dimensions_mm": "145 x 71 x 9.5",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-12-03",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_40",
+    "brand": "Xiaomi",
+    "model": "Redmi 24 Lite",
+    "price_inr": 6999,
+    "display": "6.4 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 8,
+      "features": [
+        "5G",
+        "120Hz",
+        "IP68",
+        "Night mode",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 3000,
+    "charging_w": 65,
+    "os": "Android",
+    "processor": "Dimensity 9200",
+    "weight_g": 210,
+    "dimensions_mm": "153 x 68 x 7.2",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-01-10",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "120Hz",
+      "IP68",
+      "Night mode",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_41",
+    "brand": "Oppo",
+    "model": "Oppo 14",
+    "price_inr": 15930,
+    "display": "6.0 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 12,
+      "features": [
+        "120Hz",
+        "OIS",
+        "WiFi 6E",
+        "5G"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 6000,
+    "charging_w": 30,
+    "os": "iOS",
+    "processor": "Dimensity 7020",
+    "weight_g": 189,
+    "dimensions_mm": "165 x 76 x 7.2",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-10-09",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "120Hz",
+      "OIS",
+      "WiFi 6E",
+      "5G"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_42",
+    "brand": "Motorola",
+    "model": "Moto 28 Neo",
+    "price_inr": 13250,
+    "display": "6.7 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 16,
+      "features": [
+        "Wireless charging",
+        "5G",
+        "IP68"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 6000,
+    "charging_w": 30,
+    "os": "iOS",
+    "processor": "Dimensity 7020",
+    "weight_g": 187,
+    "dimensions_mm": "167 x 66 x 6.7",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-06-14",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "5G",
+      "IP68"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_43",
+    "brand": "Samsung",
+    "model": "Galaxy 18",
+    "price_inr": 32632,
+    "display": "6.7 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 12,
+      "features": [
+        "5G",
+        "90Hz",
+        "120Hz",
+        "IP68",
+        "Wireless charging",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 5000,
+    "charging_w": 33,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 6 Gen 1",
+    "weight_g": 226,
+    "dimensions_mm": "154 x 78 x 7.8",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-02-10",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "90Hz",
+      "120Hz",
+      "IP68",
+      "Wireless charging",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_44",
+    "brand": "Xiaomi",
+    "model": "Redmi 4 Pro",
+    "price_inr": 45231,
+    "display": "6.6 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 8,
+      "features": [
+        "EIS",
+        "5G",
+        "90Hz",
+        "OIS",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 4500,
+    "charging_w": 80,
+    "os": "Android",
+    "processor": "Dimensity 7020",
+    "weight_g": 169,
+    "dimensions_mm": "170 x 76 x 9.5",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-07-11",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "90Hz",
+      "OIS",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_45",
+    "brand": "Samsung",
+    "model": "Galaxy 16 Lite",
+    "price_inr": 25361,
+    "display": "6.1 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": null,
+      "features": [
+        "Wireless charging",
+        "OIS",
+        "IP68",
+        "EIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 4000,
+    "charging_w": 18,
+    "os": "Android",
+    "processor": "Apple A15",
+    "weight_g": 204,
+    "dimensions_mm": "141 x 73 x 7.8",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-03-18",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "OIS",
+      "IP68",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_46",
+    "brand": "Samsung",
+    "model": "Galaxy 18 Lite",
+    "price_inr": 62085,
+    "display": "6.0 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 8,
+      "features": [
+        "90Hz",
+        "IP68",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 5500,
+    "charging_w": 18,
+    "os": "iOS",
+    "processor": "Snapdragon 778G",
+    "weight_g": 156,
+    "dimensions_mm": "140 x 80 x 9.2",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-07-24",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "90Hz",
+      "IP68",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_47",
+    "brand": "Samsung",
+    "model": "Galaxy 6 Pro",
+    "price_inr": 31254,
+    "display": "6.4 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": null,
+      "features": [
+        "Wireless charging",
+        "IP68",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 3000,
+    "charging_w": 65,
+    "os": "Android (OxygenOS)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 221,
+    "dimensions_mm": "164 x 75 x 6.7",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-02-04",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "IP68",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_48",
+    "brand": "Vivo",
+    "model": "Vivo 8 Lite",
+    "price_inr": 48268,
+    "display": "6.7 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "120Hz",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 4000,
+    "charging_w": 120,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 172,
+    "dimensions_mm": "147 x 80 x 7.2",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-11-28",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "120Hz",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_49",
+    "brand": "Motorola",
+    "model": "Moto 9 Lite",
+    "price_inr": 58356,
+    "display": "6.4 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 8,
+      "features": [
+        "5G",
+        "WiFi 6E",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 6000,
+    "charging_w": 120,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 196,
+    "dimensions_mm": "145 x 73 x 7.7",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-11-23",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "WiFi 6E",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_50",
+    "brand": "Samsung",
+    "model": "Galaxy 10",
+    "price_inr": 59881,
+    "display": "6.1 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "EIS",
+        "IP68",
+        "120Hz",
+        "OIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 5500,
+    "charging_w": 45,
+    "os": "Android (OxygenOS)",
+    "processor": "Apple A15",
+    "weight_g": 212,
+    "dimensions_mm": "146 x 66 x 9.3",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-10-12",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "EIS",
+      "IP68",
+      "120Hz",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_51",
+    "brand": "OnePlus",
+    "model": "OnePlus 24 Lite",
+    "price_inr": 20926,
+    "display": "6.5 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": null,
+      "features": [
+        "120Hz",
+        "IP68",
+        "Night mode",
+        "OIS",
+        "WiFi 6E",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 4500,
+    "charging_w": 30,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 148,
+    "dimensions_mm": "166 x 78 x 6.8",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-04-09",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "120Hz",
+      "IP68",
+      "Night mode",
+      "OIS",
+      "WiFi 6E",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_52",
+    "brand": "Samsung",
+    "model": "Galaxy 5 Neo",
+    "price_inr": 44646,
+    "display": "5.8 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 16,
+      "features": [
+        "EIS",
+        "5G",
+        "90Hz",
+        "Wireless charging",
+        "OIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 4500,
+    "charging_w": 18,
+    "os": "Android (OxygenOS)",
+    "processor": "Dimensity 9200",
+    "weight_g": 175,
+    "dimensions_mm": "147 x 77 x 8.8",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-08-25",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "90Hz",
+      "Wireless charging",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_53",
+    "brand": "iQOO",
+    "model": "iQOO 8",
+    "price_inr": 24269,
+    "display": "6.5 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 8,
+      "features": [
+        "Night mode",
+        "IP68",
+        "EIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 5500,
+    "charging_w": 18,
+    "os": "iOS",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 229,
+    "dimensions_mm": "149 x 75 x 9.5",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-09-01",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "IP68",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_54",
+    "brand": "iQOO",
+    "model": "iQOO 24",
+    "price_inr": 12527,
+    "display": "6.1 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 8,
+      "features": [
+        "WiFi 6E",
+        "EIS",
+        "5G",
+        "120Hz",
+        "OIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 5000,
+    "charging_w": 65,
+    "os": "iOS",
+    "processor": "Tensor G3",
+    "weight_g": 194,
+    "dimensions_mm": "142 x 78 x 6.6",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-04-17",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "WiFi 6E",
+      "EIS",
+      "5G",
+      "120Hz",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_55",
+    "brand": "Xiaomi",
+    "model": "Redmi 14 Lite",
+    "price_inr": 13494,
+    "display": "6.0 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 16,
+      "features": [
+        "WiFi 6E",
+        "5G",
+        "Wireless charging",
+        "OIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 5500,
+    "charging_w": 30,
+    "os": "iOS",
+    "processor": "Snapdragon 778G",
+    "weight_g": 165,
+    "dimensions_mm": "148 x 79 x 9.2",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-09-07",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "WiFi 6E",
+      "5G",
+      "Wireless charging",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_56",
+    "brand": "Samsung",
+    "model": "Galaxy 12 Lite",
+    "price_inr": 59158,
+    "display": "6.6 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 12,
+      "features": [
+        "90Hz",
+        "120Hz",
+        "Wireless charging",
+        "Night mode",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 3000,
+    "charging_w": 33,
+    "os": "Android",
+    "processor": "Snapdragon 8+",
+    "weight_g": 181,
+    "dimensions_mm": "166 x 79 x 8.8",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-08-28",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "90Hz",
+      "120Hz",
+      "Wireless charging",
+      "Night mode",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_57",
+    "brand": "Realme",
+    "model": "Realme 15 Neo",
+    "price_inr": 11556,
+    "display": "6.0 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 12,
+      "features": [
+        "5G",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 4500,
+    "charging_w": 65,
+    "os": "Android",
+    "processor": "Dimensity 7020",
+    "weight_g": 202,
+    "dimensions_mm": "148 x 65 x 9.1",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-02-01",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_58",
+    "brand": "Oppo",
+    "model": "Oppo 12 Neo",
+    "price_inr": 9995,
+    "display": "6.5 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 8,
+      "features": [
+        "Night mode",
+        "WiFi 6E",
+        "IP68",
+        "OIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 5000,
+    "charging_w": 65,
+    "os": "Android",
+    "processor": "Tensor G3",
+    "weight_g": 212,
+    "dimensions_mm": "140 x 66 x 7.6",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-02-04",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "WiFi 6E",
+      "IP68",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_59",
+    "brand": "Google",
+    "model": "Pixel 28",
+    "price_inr": 11720,
+    "display": "5.8 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": null,
+      "features": [
+        "Wireless charging",
+        "Night mode",
+        "5G",
+        "90Hz",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 4500,
+    "charging_w": 18,
+    "os": "Android",
+    "processor": "Tensor G3",
+    "weight_g": 150,
+    "dimensions_mm": "164 x 70 x 7.3",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-01-16",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "Night mode",
+      "5G",
+      "90Hz",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_60",
+    "brand": "Samsung",
+    "model": "Galaxy 12 Pro",
+    "price_inr": 23148,
+    "display": "6.78 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 12,
+      "features": [
+        "Night mode",
+        "IP68",
+        "90Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 4500,
+    "charging_w": 120,
+    "os": "Android",
+    "processor": "Snapdragon 778G",
+    "weight_g": 162,
+    "dimensions_mm": "143 x 80 x 9.0",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-11-18",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "IP68",
+      "90Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_61",
+    "brand": "Motorola",
+    "model": "Moto 15",
+    "price_inr": 58729,
+    "display": "6.0 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": null,
+      "features": [
+        "EIS",
+        "5G",
+        "90Hz",
+        "120Hz",
+        "WiFi 6E",
+        "OIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 3500,
+    "charging_w": 33,
+    "os": "Android",
+    "processor": "Tensor G3",
+    "weight_g": 205,
+    "dimensions_mm": "143 x 79 x 7.2",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-08-21",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "90Hz",
+      "120Hz",
+      "WiFi 6E",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_62",
+    "brand": "Poco",
+    "model": "Poco 24 Pro",
+    "price_inr": 33264,
+    "display": "6.7 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 12,
+      "features": [
+        "90Hz",
+        "120Hz",
+        "Wireless charging",
+        "OIS",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 6000,
+    "charging_w": 30,
+    "os": "iOS",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 188,
+    "dimensions_mm": "160 x 65 x 9.3",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-12-06",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "90Hz",
+      "120Hz",
+      "Wireless charging",
+      "OIS",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_63",
+    "brand": "Oppo",
+    "model": "Oppo 12 Neo",
+    "price_inr": 62607,
+    "display": "5.8 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": null,
+      "features": [
+        "WiFi 6E",
+        "5G",
+        "90Hz",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 3000,
+    "charging_w": 45,
+    "os": "Android",
+    "processor": "Dimensity 7020",
+    "weight_g": 226,
+    "dimensions_mm": "142 x 80 x 9.2",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-12-17",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "WiFi 6E",
+      "5G",
+      "90Hz",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_64",
+    "brand": "Samsung",
+    "model": "Galaxy 8 Pro",
+    "price_inr": 16021,
+    "display": "6.0 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 16,
+      "features": [
+        "Wireless charging",
+        "OIS",
+        "WiFi 6E",
+        "120Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 3000,
+    "charging_w": 80,
+    "os": "Android",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 216,
+    "dimensions_mm": "168 x 65 x 7.4",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-07-25",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "OIS",
+      "WiFi 6E",
+      "120Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_65",
+    "brand": "Google",
+    "model": "Pixel 10 Pro",
+    "price_inr": 22472,
+    "display": "6.78 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 8,
+      "features": [
+        "Night mode",
+        "WiFi 6E",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 4000,
+    "charging_w": 45,
+    "os": "Android (Stock)",
+    "processor": "Tensor G3",
+    "weight_g": 215,
+    "dimensions_mm": "163 x 70 x 8.8",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-12-03",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "WiFi 6E",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_66",
+    "brand": "Realme",
+    "model": "Realme 22 Lite",
+    "price_inr": 16000,
+    "display": "6.6 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 16,
+      "features": [
+        "Wireless charging",
+        "EIS",
+        "5G",
+        "OIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 4000,
+    "charging_w": 30,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 778G",
+    "weight_g": 148,
+    "dimensions_mm": "169 x 74 x 7.3",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-03-22",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "EIS",
+      "5G",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_67",
+    "brand": "Realme",
+    "model": "Realme 6",
+    "price_inr": 58569,
+    "display": "6.0 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": null,
+      "features": [
+        "WiFi 6E",
+        "120Hz",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 5500,
+    "charging_w": 65,
+    "os": "iOS",
+    "processor": "Tensor G3",
+    "weight_g": 216,
+    "dimensions_mm": "164 x 66 x 9.4",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-07-13",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "WiFi 6E",
+      "120Hz",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_68",
+    "brand": "Vivo",
+    "model": "Vivo 13 Pro",
+    "price_inr": 33774,
+    "display": "6.7 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 8,
+      "features": [
+        "5G",
+        "IP68",
+        "Wireless charging",
+        "Night mode",
+        "WiFi 6E",
+        "EIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 6000,
+    "charging_w": 33,
+    "os": "iOS",
+    "processor": "Apple A15",
+    "weight_g": 215,
+    "dimensions_mm": "165 x 74 x 7.3",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-05-21",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "IP68",
+      "Wireless charging",
+      "Night mode",
+      "WiFi 6E",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_69",
+    "brand": "Motorola",
+    "model": "Moto 15 Neo",
+    "price_inr": 20330,
+    "display": "5.8 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "OIS",
+        "EIS",
+        "IP68"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 5500,
+    "charging_w": 65,
+    "os": "Android (OxygenOS)",
+    "processor": "Tensor G3",
+    "weight_g": 192,
+    "dimensions_mm": "162 x 74 x 7.2",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-05-19",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "OIS",
+      "EIS",
+      "IP68"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_70",
+    "brand": "Vivo",
+    "model": "Vivo 4 Pro",
+    "price_inr": 24793,
+    "display": "6.4 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 16,
+      "features": [
+        "Wireless charging",
+        "Night mode",
+        "5G",
+        "EIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 4000,
+    "charging_w": 45,
+    "os": "Android",
+    "processor": "Dimensity 9200",
+    "weight_g": 151,
+    "dimensions_mm": "155 x 74 x 7.3",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-07-20",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "Night mode",
+      "5G",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_71",
+    "brand": "iQOO",
+    "model": "iQOO 3 Neo",
+    "price_inr": 64538,
+    "display": "6.4 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "120Hz",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 4000,
+    "charging_w": 65,
+    "os": "iOS",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 187,
+    "dimensions_mm": "163 x 65 x 7.6",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-10-02",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "120Hz",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_72",
+    "brand": "Google",
+    "model": "Pixel 10 Pro",
+    "price_inr": 20727,
+    "display": "6.78 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "WiFi 6E",
+        "EIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 6000,
+    "charging_w": 33,
+    "os": "Android",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 221,
+    "dimensions_mm": "170 x 77 x 6.9",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-01-02",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "WiFi 6E",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_73",
+    "brand": "Samsung",
+    "model": "Galaxy 24 Pro",
+    "price_inr": 30688,
+    "display": "6.1 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 16,
+      "features": [
+        "EIS",
+        "5G",
+        "120Hz",
+        "IP68",
+        "OIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 5500,
+    "charging_w": 65,
+    "os": "iOS",
+    "processor": "Dimensity 7020",
+    "weight_g": 204,
+    "dimensions_mm": "170 x 75 x 8.5",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-04-17",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "120Hz",
+      "IP68",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_74",
+    "brand": "Oppo",
+    "model": "Oppo 12",
+    "price_inr": 16522,
+    "display": "6.78 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": null,
+      "features": [
+        "EIS",
+        "5G",
+        "Wireless charging",
+        "OIS",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 3500,
+    "charging_w": 80,
+    "os": "iOS",
+    "processor": "Apple A15",
+    "weight_g": 146,
+    "dimensions_mm": "143 x 66 x 9.2",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-04-10",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "Wireless charging",
+      "OIS",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_75",
+    "brand": "OnePlus",
+    "model": "OnePlus 16 Pro",
+    "price_inr": 27773,
+    "display": "6.78 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "5G",
+        "WiFi 6E",
+        "90Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 6000,
+    "charging_w": 30,
+    "os": "iOS",
+    "processor": "Tensor G3",
+    "weight_g": 146,
+    "dimensions_mm": "166 x 78 x 6.6",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-11-08",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "5G",
+      "WiFi 6E",
+      "90Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_76",
+    "brand": "Samsung",
+    "model": "Galaxy 11 Neo",
+    "price_inr": 48667,
+    "display": "6.78 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": 8,
+      "features": [
+        "Night mode",
+        "OIS",
+        "Wireless charging",
+        "EIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 3000,
+    "charging_w": 80,
+    "os": "Android",
+    "processor": "Apple A15",
+    "weight_g": 208,
+    "dimensions_mm": "145 x 73 x 7.9",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-01-24",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "OIS",
+      "Wireless charging",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_77",
+    "brand": "Oppo",
+    "model": "Oppo 20 Lite",
+    "price_inr": 18429,
+    "display": "6.6 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 12,
+      "features": [
+        "Wireless charging",
+        "OIS",
+        "Night mode",
+        "EIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 4000,
+    "charging_w": 30,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 215,
+    "dimensions_mm": "170 x 78 x 9.3",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-05-26",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "OIS",
+      "Night mode",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_78",
+    "brand": "Vivo",
+    "model": "Vivo 16 Neo",
+    "price_inr": 27837,
+    "display": "5.8 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": null,
+      "features": [
+        "OIS",
+        "EIS",
+        "IP68",
+        "90Hz"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 6000,
+    "charging_w": 18,
+    "os": "iOS",
+    "processor": "Dimensity 7020",
+    "weight_g": 158,
+    "dimensions_mm": "140 x 65 x 8.8",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-09-24",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "EIS",
+      "IP68",
+      "90Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_79",
+    "brand": "Vivo",
+    "model": "Vivo 10 Lite",
+    "price_inr": 11615,
+    "display": "6.1 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 12,
+      "features": [
+        "Wireless charging",
+        "OIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 5000,
+    "charging_w": 33,
+    "os": "Android (OxygenOS)",
+    "processor": "Snapdragon 8+",
+    "weight_g": 148,
+    "dimensions_mm": "156 x 70 x 7.5",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-11-20",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_80",
+    "brand": "iQOO",
+    "model": "iQOO 28 Lite",
+    "price_inr": 12772,
+    "display": "6.78 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 8,
+      "features": [
+        "5G",
+        "120Hz",
+        "Night mode",
+        "OIS",
+        "WiFi 6E",
+        "EIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 3500,
+    "charging_w": 18,
+    "os": "Android (Stock)",
+    "processor": "Tensor G3",
+    "weight_g": 221,
+    "dimensions_mm": "160 x 80 x 9.4",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-06-03",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "120Hz",
+      "Night mode",
+      "OIS",
+      "WiFi 6E",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_81",
+    "brand": "Google",
+    "model": "Pixel 9 Neo",
+    "price_inr": 6999,
+    "display": "6.7 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 16,
+      "features": [
+        "WiFi 6E",
+        "IP68"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 5000,
+    "charging_w": 120,
+    "os": "iOS",
+    "processor": "Apple A15",
+    "weight_g": 150,
+    "dimensions_mm": "144 x 65 x 6.9",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-02-27",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "WiFi 6E",
+      "IP68"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_82",
+    "brand": "Google",
+    "model": "Pixel 18 Lite",
+    "price_inr": 58407,
+    "display": "6.5 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 8,
+      "features": [
+        "OIS",
+        "IP68",
+        "90Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 6000,
+    "charging_w": 65,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 163,
+    "dimensions_mm": "142 x 66 x 8.7",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-02-11",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "IP68",
+      "90Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_83",
+    "brand": "Vivo",
+    "model": "Vivo 12 Pro",
+    "price_inr": 12208,
+    "display": "6.0 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 12,
+      "features": [
+        "Night mode",
+        "5G",
+        "90Hz",
+        "OIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 4000,
+    "charging_w": 120,
+    "os": "Android",
+    "processor": "Snapdragon 778G",
+    "weight_g": 227,
+    "dimensions_mm": "170 x 78 x 7.5",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-01-07",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "5G",
+      "90Hz",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_84",
+    "brand": "Xiaomi",
+    "model": "Redmi 14 Lite",
+    "price_inr": 12828,
+    "display": "6.6 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 8,
+      "features": [
+        "OIS",
+        "WiFi 6E",
+        "90Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 4500,
+    "charging_w": 65,
+    "os": "Android (Stock)",
+    "processor": "Dimensity 7020",
+    "weight_g": 205,
+    "dimensions_mm": "168 x 73 x 8.9",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-05-25",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "WiFi 6E",
+      "90Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_85",
+    "brand": "Poco",
+    "model": "Poco 3 Lite",
+    "price_inr": 45021,
+    "display": "6.7 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 16,
+      "features": [
+        "Wireless charging",
+        "5G",
+        "IP68",
+        "OIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 5500,
+    "charging_w": 45,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 6 Gen 1",
+    "weight_g": 224,
+    "dimensions_mm": "162 x 69 x 7.2",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-11-04",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "5G",
+      "IP68",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_86",
+    "brand": "Vivo",
+    "model": "Vivo 14 Pro",
+    "price_inr": 16312,
+    "display": "6.0 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 8,
+      "features": [
+        "90Hz",
+        "OIS",
+        "WiFi 6E",
+        "IP68",
+        "EIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 5500,
+    "charging_w": 120,
+    "os": "iOS",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 181,
+    "dimensions_mm": "151 x 73 x 6.6",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-10-08",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "90Hz",
+      "OIS",
+      "WiFi 6E",
+      "IP68",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_87",
+    "brand": "Vivo",
+    "model": "Vivo 10 Pro",
+    "price_inr": 33129,
+    "display": "6.5 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": null,
+      "features": [
+        "Wireless charging",
+        "EIS",
+        "90Hz",
+        "5G"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 3000,
+    "charging_w": 33,
+    "os": "Android (Stock)",
+    "processor": "Dimensity 7020",
+    "weight_g": 151,
+    "dimensions_mm": "159 x 68 x 9.0",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-12-19",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "EIS",
+      "90Hz",
+      "5G"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_88",
+    "brand": "Oppo",
+    "model": "Oppo 8 Neo",
+    "price_inr": 25016,
+    "display": "6.6 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 12,
+      "features": [
+        "Wireless charging",
+        "5G",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 4000,
+    "charging_w": 120,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 8+",
+    "weight_g": 184,
+    "dimensions_mm": "156 x 76 x 7.4",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-01-04",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "5G",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_89",
+    "brand": "Google",
+    "model": "Pixel 6",
+    "price_inr": 23936,
+    "display": "6.6 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": null,
+      "features": [
+        "EIS",
+        "5G",
+        "90Hz",
+        "120Hz",
+        "IP68",
+        "OIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 3500,
+    "charging_w": 30,
+    "os": "Android",
+    "processor": "Dimensity 9200",
+    "weight_g": 188,
+    "dimensions_mm": "146 x 72 x 7.9",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-12-12",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "90Hz",
+      "120Hz",
+      "IP68",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_90",
+    "brand": "Oppo",
+    "model": "Oppo 12 Pro",
+    "price_inr": 19620,
+    "display": "6.78 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 8,
+      "features": [
+        "5G",
+        "EIS",
+        "90Hz",
+        "Wireless charging",
+        "Night mode",
+        "OIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 3500,
+    "charging_w": 18,
+    "os": "iOS",
+    "processor": "Snapdragon 778G",
+    "weight_g": 157,
+    "dimensions_mm": "154 x 76 x 7.4",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-04-22",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "EIS",
+      "90Hz",
+      "Wireless charging",
+      "Night mode",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_91",
+    "brand": "OnePlus",
+    "model": "OnePlus 6",
+    "price_inr": 21064,
+    "display": "6.7 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": 8,
+      "features": [
+        "Night mode",
+        "EIS",
+        "WiFi 6E",
+        "90Hz"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 5000,
+    "charging_w": 30,
+    "os": "iOS",
+    "processor": "Snapdragon 778G",
+    "weight_g": 189,
+    "dimensions_mm": "147 x 65 x 8.0",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-05-03",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "EIS",
+      "WiFi 6E",
+      "90Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_92",
+    "brand": "Poco",
+    "model": "Poco 22 Lite",
+    "price_inr": 33367,
+    "display": "6.78 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": null,
+      "features": [
+        "Wireless charging",
+        "Night mode",
+        "IP68",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 4000,
+    "charging_w": 45,
+    "os": "Android",
+    "processor": "Tensor G3",
+    "weight_g": 141,
+    "dimensions_mm": "157 x 79 x 8.2",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-04-14",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "Night mode",
+      "IP68",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_93",
+    "brand": "iQOO",
+    "model": "iQOO 18 Pro",
+    "price_inr": 14522,
+    "display": "6.78 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 16,
+      "features": [
+        "5G",
+        "IP68",
+        "Wireless charging",
+        "OIS",
+        "WiFi 6E",
+        "EIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 3500,
+    "charging_w": 33,
+    "os": "iOS",
+    "processor": "Apple A15",
+    "weight_g": 163,
+    "dimensions_mm": "149 x 78 x 8.6",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-09-17",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "IP68",
+      "Wireless charging",
+      "OIS",
+      "WiFi 6E",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_94",
+    "brand": "Motorola",
+    "model": "Moto 8 Pro",
+    "price_inr": 49049,
+    "display": "6.1 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": null,
+      "features": [
+        "Wireless charging",
+        "5G",
+        "EIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 3500,
+    "charging_w": 65,
+    "os": "Android (Stock)",
+    "processor": "Tensor G3",
+    "weight_g": 201,
+    "dimensions_mm": "145 x 67 x 7.6",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-01-28",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "5G",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_95",
+    "brand": "Xiaomi",
+    "model": "Redmi 10 Pro",
+    "price_inr": 22398,
+    "display": "6.5 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 8,
+      "features": [
+        "90Hz",
+        "OIS",
+        "5G",
+        "IP68",
+        "EIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 5500,
+    "charging_w": 18,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 6 Gen 1",
+    "weight_g": 165,
+    "dimensions_mm": "170 x 75 x 7.8",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-12-22",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "90Hz",
+      "OIS",
+      "5G",
+      "IP68",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_96",
+    "brand": "Google",
+    "model": "Pixel 12 Neo",
+    "price_inr": 63512,
+    "display": "6.5 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 12,
+      "features": [
+        "Night mode",
+        "120Hz",
+        "Wireless charging",
+        "EIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 4000,
+    "charging_w": 65,
+    "os": "Android (OxygenOS)",
+    "processor": "Dimensity 7020",
+    "weight_g": 182,
+    "dimensions_mm": "160 x 78 x 7.4",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-07-07",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "120Hz",
+      "Wireless charging",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_97",
+    "brand": "iQOO",
+    "model": "iQOO 11 Pro",
+    "price_inr": 25914,
+    "display": "6.5 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 12,
+      "features": [
+        "5G",
+        "90Hz",
+        "IP68",
+        "Wireless charging",
+        "WiFi 6E"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 5000,
+    "charging_w": 80,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 193,
+    "dimensions_mm": "147 x 78 x 8.9",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-01-26",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "90Hz",
+      "IP68",
+      "Wireless charging",
+      "WiFi 6E"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_98",
+    "brand": "Realme",
+    "model": "Realme 26",
+    "price_inr": 16307,
+    "display": "6.4 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 16,
+      "features": [
+        "Wireless charging",
+        "OIS",
+        "WiFi 6E",
+        "90Hz"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 3000,
+    "charging_w": 30,
+    "os": "Android (OxygenOS)",
+    "processor": "Dimensity 9200",
+    "weight_g": 149,
+    "dimensions_mm": "145 x 68 x 8.4",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-06-03",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "OIS",
+      "WiFi 6E",
+      "90Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_99",
+    "brand": "iQOO",
+    "model": "iQOO 9 Neo",
+    "price_inr": 27414,
+    "display": "5.8 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": null,
+      "features": [
+        "WiFi 6E",
+        "5G",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 3500,
+    "charging_w": 80,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 214,
+    "dimensions_mm": "144 x 65 x 7.9",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-04-07",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "WiFi 6E",
+      "5G",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_100",
+    "brand": "Motorola",
+    "model": "Moto 5 Neo",
+    "price_inr": 13058,
+    "display": "6.7 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 8,
+      "features": [
+        "5G",
+        "EIS",
+        "120Hz",
+        "Wireless charging",
+        "OIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 4000,
+    "charging_w": 18,
+    "os": "Android (OxygenOS)",
+    "processor": "Dimensity 7020",
+    "weight_g": 162,
+    "dimensions_mm": "144 x 77 x 9.5",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-07-06",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "EIS",
+      "120Hz",
+      "Wireless charging",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_101",
+    "brand": "Realme",
+    "model": "Realme 30 Pro",
+    "price_inr": 47450,
+    "display": "6.6 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "Night mode"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 6000,
+    "charging_w": 120,
+    "os": "Android",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 189,
+    "dimensions_mm": "165 x 72 x 6.5",
+    "one_hand_score": 7,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-12-10",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "Night mode"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_102",
+    "brand": "Vivo",
+    "model": "Vivo 28 Pro",
+    "price_inr": 61636,
+    "display": "6.6 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 12,
+      "features": [
+        "5G",
+        "90Hz",
+        "OIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 6000,
+    "charging_w": 18,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 8+",
+    "weight_g": 152,
+    "dimensions_mm": "151 x 71 x 9.2",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-09-18",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "90Hz",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_103",
+    "brand": "Vivo",
+    "model": "Vivo 26",
+    "price_inr": 48605,
+    "display": "6.7 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": null,
+      "features": [
+        "OIS",
+        "5G",
+        "EIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 4000,
+    "charging_w": 120,
+    "os": "Android",
+    "processor": "Dimensity 9200",
+    "weight_g": 197,
+    "dimensions_mm": "141 x 66 x 7.9",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-05-02",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "5G",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_104",
+    "brand": "Vivo",
+    "model": "Vivo 30 Pro",
+    "price_inr": 13888,
+    "display": "6.0 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 12,
+      "features": [
+        "Night mode",
+        "OIS",
+        "WiFi 6E",
+        "90Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 4000,
+    "charging_w": 120,
+    "os": "Android (OxygenOS)",
+    "processor": "Tensor G3",
+    "weight_g": 158,
+    "dimensions_mm": "147 x 75 x 7.8",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-10-18",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "OIS",
+      "WiFi 6E",
+      "90Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_105",
+    "brand": "Xiaomi",
+    "model": "Redmi 16 Pro",
+    "price_inr": 12559,
+    "display": "6.5 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 12,
+      "features": [
+        "Night mode",
+        "Wireless charging",
+        "OIS",
+        "EIS"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 5500,
+    "charging_w": 33,
+    "os": "iOS",
+    "processor": "Dimensity 7020",
+    "weight_g": 171,
+    "dimensions_mm": "163 x 70 x 8.6",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-03-07",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "Wireless charging",
+      "OIS",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_106",
+    "brand": "Motorola",
+    "model": "Moto 10 Neo",
+    "price_inr": 16787,
+    "display": "6.0 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": null,
+      "features": [
+        "Night mode",
+        "OIS",
+        "EIS",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 4000,
+    "charging_w": 18,
+    "os": "Android (Stock)",
+    "processor": "Dimensity 7020",
+    "weight_g": 190,
+    "dimensions_mm": "153 x 67 x 8.7",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-02-13",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "OIS",
+      "EIS",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_107",
+    "brand": "Poco",
+    "model": "Poco 8 Neo",
+    "price_inr": 34195,
+    "display": "6.7 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 12,
+      "features": [
+        "Wireless charging",
+        "EIS",
+        "IP68"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 6000,
+    "charging_w": 18,
+    "os": "Android (OxygenOS)",
+    "processor": "Tensor G3",
+    "weight_g": 219,
+    "dimensions_mm": "154 x 65 x 7.7",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-03-06",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "EIS",
+      "IP68"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_108",
+    "brand": "Poco",
+    "model": "Poco 22 Pro",
+    "price_inr": 63235,
+    "display": "6.7 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": 16,
+      "features": [
+        "5G",
+        "EIS",
+        "90Hz",
+        "120Hz",
+        "OIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 3000,
+    "charging_w": 30,
+    "os": "iOS",
+    "processor": "Dimensity 9200",
+    "weight_g": 177,
+    "dimensions_mm": "161 x 70 x 8.5",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-01-09",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "EIS",
+      "90Hz",
+      "120Hz",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_109",
+    "brand": "iQOO",
+    "model": "iQOO 4 Lite",
+    "price_inr": 58893,
+    "display": "6.4 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 12,
+      "features": [
+        "OIS",
+        "5G"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 6000,
+    "charging_w": 33,
+    "os": "Android",
+    "processor": "Dimensity 7020",
+    "weight_g": 147,
+    "dimensions_mm": "145 x 70 x 8.6",
+    "one_hand_score": 8,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-09-04",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "5G"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_110",
+    "brand": "Vivo",
+    "model": "Vivo 7",
+    "price_inr": 11353,
+    "display": "6.78 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 16,
+      "features": [
+        "5G",
+        "90Hz",
+        "120Hz",
+        "OIS",
+        "WiFi 6E",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 5000,
+    "charging_w": 18,
+    "os": "iOS",
+    "processor": "Snapdragon 8+",
+    "weight_g": 190,
+    "dimensions_mm": "141 x 73 x 7.1",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-04-12",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "5G",
+      "90Hz",
+      "120Hz",
+      "OIS",
+      "WiFi 6E",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_111",
+    "brand": "iQOO",
+    "model": "iQOO 15 Lite",
+    "price_inr": 33252,
+    "display": "6.6 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "EIS",
+        "90Hz",
+        "120Hz"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 4000,
+    "charging_w": 18,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 8+",
+    "weight_g": 195,
+    "dimensions_mm": "147 x 80 x 6.9",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-07-21",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "EIS",
+      "90Hz",
+      "120Hz"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_112",
+    "brand": "Vivo",
+    "model": "Vivo 26",
+    "price_inr": 61805,
+    "display": "6.6 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 16,
+      "ultra_mp": 16,
+      "features": [
+        "OIS",
+        "5G"
+      ]
+    },
+    "camera_mp": 16,
+    "battery_mah": 3000,
+    "charging_w": 30,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 163,
+    "dimensions_mm": "159 x 75 x 7.0",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-09-12",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "OIS",
+      "5G"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_113",
+    "brand": "Motorola",
+    "model": "Moto 13",
+    "price_inr": 19923,
+    "display": "6.78 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 12,
+      "features": [
+        "Night mode",
+        "OIS",
+        "5G",
+        "IP68",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 5500,
+    "charging_w": 120,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 203,
+    "dimensions_mm": "146 x 80 x 9.5",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2019-06-04",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "OIS",
+      "5G",
+      "IP68",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_114",
+    "brand": "Samsung",
+    "model": "Galaxy 13 Pro",
+    "price_inr": 23104,
+    "display": "6.1 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 8,
+      "features": [
+        "Night mode",
+        "90Hz",
+        "EIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 4000,
+    "charging_w": 65,
+    "os": "Android",
+    "processor": "Dimensity 7020",
+    "weight_g": 181,
+    "dimensions_mm": "160 x 70 x 9.3",
+    "one_hand_score": 10,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-04-03",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "90Hz",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_115",
+    "brand": "iQOO",
+    "model": "iQOO 22",
+    "price_inr": 10615,
+    "display": "6.1 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 50,
+      "ultra_mp": null,
+      "features": [
+        "90Hz",
+        "IP68",
+        "Night mode",
+        "OIS",
+        "WiFi 6E",
+        "EIS"
+      ]
+    },
+    "camera_mp": 50,
+    "battery_mah": 4000,
+    "charging_w": 30,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 179,
+    "dimensions_mm": "157 x 71 x 8.1",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-10-11",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "90Hz",
+      "IP68",
+      "Night mode",
+      "OIS",
+      "WiFi 6E",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_116",
+    "brand": "Xiaomi",
+    "model": "Redmi 12",
+    "price_inr": 23545,
+    "display": "6.0 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 64,
+      "ultra_mp": 8,
+      "features": [
+        "Wireless charging",
+        "OIS",
+        "5G",
+        "EIS"
+      ]
+    },
+    "camera_mp": 64,
+    "battery_mah": 3000,
+    "charging_w": 80,
+    "os": "Android (Stock)",
+    "processor": "Tensor G3",
+    "weight_g": 162,
+    "dimensions_mm": "161 x 67 x 8.8",
+    "one_hand_score": 5,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2024-12-19",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Wireless charging",
+      "OIS",
+      "5G",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_117",
+    "brand": "OnePlus",
+    "model": "OnePlus 15",
+    "price_inr": 25643,
+    "display": "6.78 inch AMOLED, 60Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 12,
+      "features": [
+        "EIS",
+        "5G",
+        "120Hz",
+        "Wireless charging",
+        "Night mode",
+        "OIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 3000,
+    "charging_w": 18,
+    "os": "Android (OxygenOS)",
+    "processor": "Tensor G3",
+    "weight_g": 199,
+    "dimensions_mm": "169 x 78 x 7.3",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2020-11-25",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "5G",
+      "120Hz",
+      "Wireless charging",
+      "Night mode",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_118",
+    "brand": "Motorola",
+    "model": "Moto 30 Lite",
+    "price_inr": 11103,
+    "display": "6.4 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 12,
+      "ultra_mp": 16,
+      "features": [
+        "Night mode",
+        "OIS",
+        "WiFi 6E",
+        "5G",
+        "EIS"
+      ]
+    },
+    "camera_mp": 12,
+    "battery_mah": 5000,
+    "charging_w": 33,
+    "os": "Android (OxygenOS)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 223,
+    "dimensions_mm": "147 x 70 x 6.9",
+    "one_hand_score": 6,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2022-01-14",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "Night mode",
+      "OIS",
+      "WiFi 6E",
+      "5G",
+      "EIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_119",
+    "brand": "iQOO",
+    "model": "iQOO 18 Lite",
+    "price_inr": 13427,
+    "display": "6.4 inch AMOLED, 90Hz",
+    "camera": {
+      "main_mp": 48,
+      "ultra_mp": 8,
+      "features": [
+        "EIS",
+        "120Hz",
+        "OIS"
+      ]
+    },
+    "camera_mp": 48,
+    "battery_mah": 5500,
+    "charging_w": 30,
+    "os": "Android",
+    "processor": "Tensor G3",
+    "weight_g": 208,
+    "dimensions_mm": "163 x 67 x 9.2",
+    "one_hand_score": 9,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2023-03-01",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "EIS",
+      "120Hz",
+      "OIS"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "phone_120",
+    "brand": "iQOO",
+    "model": "iQOO 15 Lite",
+    "price_inr": 44664,
+    "display": "6.5 inch AMOLED, 120Hz",
+    "camera": {
+      "main_mp": 108,
+      "ultra_mp": 12,
+      "features": [
+        "WiFi 6E",
+        "IP68",
+        "90Hz",
+        "OIS"
+      ]
+    },
+    "camera_mp": 108,
+    "battery_mah": 6000,
+    "charging_w": 45,
+    "os": "Android (Stock)",
+    "processor": "Snapdragon 7 Gen 1",
+    "weight_g": 192,
+    "dimensions_mm": "166 x 77 x 9.0",
+    "one_hand_score": 4,
+    "connectivity": [
+      "5G",
+      "WiFi 6",
+      "Bluetooth 5.2"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "announced_date": "2021-08-22",
+    "image": "https://via.placeholder.com/300x200.png?text=Phone+Image",
+    "features": [
+      "WiFi 6E",
+      "IP68",
+      "90Hz",
+      "OIS"
+    ],
+    "notes": ""
+  }
+]

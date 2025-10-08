@@ -1,0 +1,24 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: |
+          pip install -r backend/requirements.txt
+      - name: Run generator smoke test
+        run: |
+          python phones_generator.py
+          python - <<'PY'
+import json
+with open('data/phones.json') as f:
+    d=json.load(f)
+print('Phones:', len(d))
+assert len(d) >= 100
+PY
